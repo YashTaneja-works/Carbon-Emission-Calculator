@@ -244,7 +244,7 @@ In `web_app.py` → **Analysis & Charts**:
 
 ---
 
-## Developer notes / customization
+## customization
 
 - **Add or change emission factors**:
   - update records in `Emission_Factor`
@@ -264,7 +264,7 @@ In `web_app.py` → **Analysis & Charts**:
 
 ---
 
-## Quick start test (developer)
+## Quick start 
 
 1. Start the web app.
 2. Create an account (user or developer).
@@ -272,7 +272,5 @@ In `web_app.py` → **Analysis & Charts**:
 4. Open **Analysis & Charts** → generate analysis for the current year.
 5. If developer account, open **Developer (SQL)** and try:
 
-```sql
-SELECT * FROM Sustainability_Program;
-```
+
 
