@@ -1,0 +1,12 @@
+User_ID,Full_Name,Waste_Type,Waste_Weight_KG,Date
+1,John Doe,Plastic,5.2,2023-01-20
+1,John Doe,Electronic,1.5,2023-02-15
+2,Jane Smith,Paper,3.7,2023-01-25
+2,Jane Smith,Plastic,6.0,2023-02-20
+3,Robert Johnson,Organic,8.0,2023-01-15
+3,Robert Johnson,Paper,4.2,2023-02-25
+4,Emily Davis,Glass,4.5,2023-01-10
+5,Michael Wilson,Metal,2.3,2023-01-05
+6,Yash Taneja,Metal,2.0,2026-01-23
+6,Yash Taneja,Plastic,40.0,2026-02-23
+11,shobhit,Paper,10.0,2026-02-24
